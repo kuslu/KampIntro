@@ -19,6 +19,7 @@ namespace GenericsIntro
             {
                 Console.WriteLine(isim);
             }
+           
         }
     }
 }
